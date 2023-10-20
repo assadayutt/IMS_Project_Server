@@ -1,11 +1,5 @@
 {
     "version" : 2,
-    "bulids": [
-        {
-            "src": "index.js",
-            "use": "@now/node"
-        }
-    ],
     "routes": [
         {
             "src": "/(.*)",
